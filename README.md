@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wilaz
+- 👀 I’m interested in hating on home assistant
+- 🌱 I’m currently learning c++, html and arm assembly
+- 📫 reach me at your mom's house
