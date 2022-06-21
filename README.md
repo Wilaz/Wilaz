@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wilaz
 - 👀 I’m interested in hating on home assistant
-- 🌱 I’m currently learning c++, web (html, tailwind, solid js, ruby on rails, nuxt3 and vite) and arm assembly
+- 🌱 I’m currently learning c++, rust, web (tailwind, vue3, actix and nuxt3) and arm assembly
 - 📫 reach me at your mom's house
